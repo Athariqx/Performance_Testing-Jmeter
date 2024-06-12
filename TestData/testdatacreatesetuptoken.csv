@@ -1,0 +1,3 @@
+id;merchant_customer_id;number;expiry;name;address_line_1;address_line_2;admin_area_1;admin_area_2;postal_code;country_code;brand_name;locale;return_url;cancel_url
+customer_4029352050;customer@merchant.com;4111111111111111;2027-02;John Doe;2211 N First Street;17.3.160;CA;San Jose;95131;US;YourBrandName;en-US;https://example.com/returnUrl;https://example.com/cancelUrl
+customer_4029352050;customer@merchant.com;4111111111111111;2027-02;John Doe;2211 N First Street;17.3.160;CA;San Jose;95131;US;YourBrandName;en-US;https://example.com/returnUrl;https://example.com/cancelUrl

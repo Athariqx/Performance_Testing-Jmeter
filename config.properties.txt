@@ -1,0 +1,16 @@
+#Name of the Application
+APP_NAME=DemoPayPal
+
+#Name of protocol
+APP_PROTOCOL=https
+
+#Name of URL
+HOST_URL=api-m.sandbox.paypal.com
+
+#Test Duration
+TEST_DURATION=10
+
+#Name of path
+AUTH_PATH=v1/oauth2/token
+PRODUCT_PATCH=v3/vault/payment-tokens
+PRODUCT_PATCH_SETUP=v3/vault/setup-tokens
