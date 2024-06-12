@@ -1,0 +1,20 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717593723380,1545,GET_AUTH_TOKEN,200,OK,VaultPaymentSource_CreateSetupToken 1-1,text,true,,4760,479,1,5,https://api-m.sandbox.paypal.com/v1/oauth2/token,1541,0,634
+1717593724926,492,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,6,null,0,1,0
+1717593724927,492,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,6,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,492,0,0
+1717593725419,998,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,9,null,0,508,0
+1717593725927,998,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,9,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,998,0,0
+1717593726925,448,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,10,null,0,3,0
+1717593726928,448,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,10,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,447,0,0
+1717593727376,467,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,552,0
+1717593727928,467,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,467,0,0
+1717593728396,431,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,532,0
+1717593728927,431,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,431,0,0
+1717593729359,468,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,569,0
+1717593729927,468,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,468,0,0
+1717593730395,475,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,532,0
+1717593730927,475,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,475,0,0
+1717593731402,428,VaultPaymentSource_tr_CreateSetupToken,200,"Number of samples in transaction : 1, number of failing samples : 0",VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,526,0
+1717593731928,428,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,428,0,0
+1717593732357,1073,VaultPaymentSource_tr_CreateSetupToken,201,,VaultPaymentSource_CreateSetupToken 1-1,,true,,1548,827,1,12,null,0,0,0
+1717593732927,503,VaultPaymentSource_tr_CreateSetupToken,201,Created,VaultPaymentSource_CreateSetupToken 1-1,text,true,,1548,827,1,12,https://api-m.sandbox.paypal.com/v3/vault/setup-tokens,503,0,0

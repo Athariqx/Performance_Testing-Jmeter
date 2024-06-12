@@ -1,0 +1,50 @@
+{
+  "GET_AUTH_TOKEN" : {
+    "transaction" : "GET_AUTH_TOKEN",
+    "sampleCount" : 33,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 599.4545454545455,
+    "medianResTime" : 393.0,
+    "minResTime" : 340.0,
+    "maxResTime" : 946.0,
+    "pct1ResTime" : 912.2,
+    "pct2ResTime" : 926.3999999999999,
+    "pct3ResTime" : 946.0,
+    "throughput" : 0.5086469989827059,
+    "receivedKBytesPerSec" : 2.364955666789975,
+    "sentKBytesPerSec" : 0.2379315551881994
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 322,
+    "errorCount" : 1,
+    "errorPct" : 0.310559,
+    "meanResTime" : 719.0465838509315,
+    "medianResTime" : 549.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 1673.0,
+    "pct1ResTime" : 1078.7,
+    "pct2ResTime" : 1139.0,
+    "pct3ResTime" : 1472.1499999999983,
+    "throughput" : 3.3766424429274022,
+    "receivedKBytesPerSec" : 6.05905822676461,
+    "sentKBytesPerSec" : 2.541677972389132
+  },
+  "VaultPaymentSource_tr_CreateSetupToken" : {
+    "transaction" : "VaultPaymentSource_tr_CreateSetupToken",
+    "sampleCount" : 520,
+    "errorCount" : 2,
+    "errorPct" : 0.3846154,
+    "meanResTime" : 726.0403846153853,
+    "medianResTime" : 547.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 1673.0,
+    "pct1ResTime" : 1077.5000000000002,
+    "pct2ResTime" : 1129.2499999999998,
+    "pct3ResTime" : 1199.0,
+    "throughput" : 5.505150491758155,
+    "receivedKBytesPerSec" : 8.184300296695852,
+    "sentKBytesPerSec" : 4.377653323734609
+  }
+}
